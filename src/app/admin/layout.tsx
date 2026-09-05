@@ -1,5 +1,5 @@
 export const metadata = {
-  title: "Central RenovaH â Acesso administrativo",
+  title: "Central RenovaH — Acesso administrativo",
   robots: { index: false, follow: false },
 };
 
